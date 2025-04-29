@@ -9,6 +9,7 @@
 
 Delete existing table if it exists (run the line of code below)
 -- SQLBook: Code
+-- Active: 1737525553600@@127.0.0.1@5432@postgres
 DROP TABLE IF EXISTS movies;
 -- SQLBook: Markup
 ### a) Part 1: Creating Tables
